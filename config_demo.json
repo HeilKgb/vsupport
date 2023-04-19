@@ -1,0 +1,10 @@
+{
+    "TokenName": {
+        "token": "<token_string>",
+        "key": "<string_key>"
+    },
+    "TokenName2": {
+        "token": "<token_string2>",
+        "key": "<string_key2>"
+    }
+}
